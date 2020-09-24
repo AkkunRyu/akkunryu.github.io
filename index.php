@@ -1,0 +1,1 @@
+<?php header("locatiaon: blog\tutorial-instalisasi-r/index.html"); ?>
